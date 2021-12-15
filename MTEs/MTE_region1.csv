@@ -1,0 +1,1199 @@
+,region_1,country,MTE: region_1
+0,Montrachet,France,601.1818181818181
+1,Romanée-St.-Vivant,France,545.0
+2,Mazoyeres-Chambertin,France,475.0
+3,Chevalier-Montrachet,France,438.26315789473676
+4,Grands-Echezeaux,France,391.0
+5,Musigny,France,380.0
+6,Chambertin Clos de Bèze,France,347.25
+7,Bonnes-Mares,France,340.3333333333333
+8,Bienvenues Bâtard-Montrachet,France,326.90909090909093
+9,Clos de Tart,France,319.0
+10,Bâtard-Montrachet,France,304.8888888888889
+11,Griotte-Chambertin,France,270.0
+12,Chambertin,France,269.84615384615387
+13,Criots-Bâtard-Montrachet,France,266.6666666666667
+14,Maury,France,238.8
+15,Latricières-Chambertin,France,228.5
+16,Corton-Rognet,France,225.0
+17,Chapelle-Chambertin,France,224.9
+18,Rivesaltes,France,224.2
+19,Mazis-Chambertin,France,223.4
+20,Bolgheri Sassicaia,Italy,212.9
+21,Clos de Vougeot,France,211.81578947368425
+22,Echézeaux,France,203.69565217391303
+23,Charmes-Chambertin,France,198.23076923076923
+24,Corton Vergennes,France,197.0
+25,Clos Saint-Denis,France,191.16666666666663
+26,Clos de la Roche,France,184.14285714285717
+27,Vin Santo di Montepulciano,Italy,176.1
+28,Corton-Charlemagne,France,156.39534883720933
+29,Pauillac,France,155.5263157894737
+30,Corton-Bressandes,France,155.0
+31,Côte Rôtie,France,154.72580645161293
+32,Pessac-Léognan,France,147.7549019607843
+33,Corton,France,139.89655172413794
+34,Barsac,France,135.0
+35,Hermitage,France,134.2173913043478
+36,Saddle Rock-Malibu,US,123.33333333333331
+37,Medrano,Argentina,112.0
+38,Banyuls,France,108.6
+39,Corton Les Lolières,France,104.0
+40,Vosne-Romanée,France,103.50909090909092
+41,Corton-Pougets,France,102.5
+42,Chambolle-Musigny,France,101.92727272727272
+43,Pomerol,France,100.35555555555555
+44,Rutherglen,Australia,98.24561403508771
+45,Puligny-Montrachet,France,97.91111111111113
+46,Vougeot,France,97.5
+47,Clarendon,Australia,94.22033898305084
+48,Morey-Saint-Denis,France,93.46153846153848
+49,Champagne,France,93.42463235294115
+50,Costa Toscana,Italy,93.33333333333331
+51,Gevrey-Chambertin,France,89.01785714285714
+52,Savennières-Coulée de Serrant,France,87.25
+53,Nuits-St.-Georges,France,86.86666666666666
+54,Saint-Julien,France,84.57692307692308
+55,Margaux,France,82.11764705882355
+56,Bolgheri Superiore,Italy,80.9281045751634
+57,Blanc Fumé de Pouilly,France,80.0
+58,Coteaux Champenois,France,80.0
+59,Quarts de Chaume,France,79.83333333333333
+60,Oakville,US,79.80882352941177
+61,Conca de Barberà,Spain,77.1
+62,Meursault,France,76.04109589041096
+63,Fort Ross-Seaview,US,75.75862068965517
+64,Alta Valle della Greve,Italy,75.0
+65,Nevada,US,75.0
+66,Stags Leap District,US,74.85026737967914
+67,Condrieu,France,74.80952380952381
+68,Cornas,France,74.77464788732394
+69,Howell Mountain,US,73.89887640449439
+70,Langhe,Italy,72.47133757961784
+71,Barolo,Italy,72.33405405405405
+72,Diamond Mountain District,US,71.06217616580311
+73,Pommard,France,70.72151898734177
+74,Sonoma-Napa,US,70.69811320754717
+75,Brunello di Montalcino,Italy,70.4383141762452
+76,Chassagne-Montrachet,France,70.35338345864662
+77,Oregon Other,US,70.0
+78,Amarone della Valpolicella,Italy,69.74093264248705
+79,Rutherford,US,68.38754325259515
+80,Corbières-Boutenac,France,67.91666666666667
+81,Rosazzo,Italy,67.5
+82,Meursault-Blagny,France,67.5
+83,Volnay,France,67.46551724137932
+84,Saint-Émilion,France,67.13191489361702
+85,Beaune,France,66.72189349112426
+86,Amarone della Valpolicella Classico,Italy,66.59528130671507
+87,Perdriel,Argentina,66.09756097560975
+88,Jujuy,Argentina,66.0
+89,Henty,Australia,66.0
+90,Corton Perrières,France,65.0
+91,St. Helena,US,64.98039215686275
+92,Río Negro Valley,Argentina,64.94117647058823
+93,Coombsville,US,63.4
+94,Spring Mountain District,US,63.125
+95,Montefalco Sagrantino,Italy,62.714285714285715
+96,Napa,US,62.58715596330275
+97,Moon Mountain District Sonoma County,US,61.83333333333334
+98,Romangia,Italy,60.72727272727273
+99,Offida Rosso,Italy,60.25
+100,Polk County,US,60.0
+101,Strevi,Italy,60.0
+102,Faro,Italy,59.83333333333334
+103,Barbaresco,Italy,58.84656084656085
+104,Pine Mountain-Cloverdale Peak,US,58.09090909090909
+105,Ramandolo,Italy,58.0
+106,Atlas Peak,US,57.379746835443036
+107,Mount Veeder,US,56.66972477064221
+108,Toscana,Italy,56.57831325301205
+109,Saint-Estèphe,France,55.769230769230774
+110,Aude Hauterive,France,55.0
+111,Sauternes,France,54.95348837209303
+112,Contessa Entellina,Italy,54.70588235294117
+113,Aloxe-Corton,France,54.5
+114,Vin Santo del Chianti,Italy,54.28571428571429
+115,Vin de Pays de Vaucluse,France,53.33333333333334
+116,Recioto di Soave,Italy,53.2
+117,Vin Santo del Chianti Classico,Italy,52.384615384615394
+118,Pernand-Vergelesses,France,52.371428571428574
+119,Priorat,Spain,52.01935483870968
+120,Gattinara,Italy,51.846153846153854
+121,Minervois La Liviniere,France,51.73913043478261
+122,Châteauneuf-du-Pape,France,51.1496062992126
+123,Sebino,Italy,51.0
+124,Isola dei Nuraghi,Italy,50.956043956043956
+125,Walla Walla Valley (OR),US,50.82608695652174
+126,Torgiano Rosso Riserva,Italy,50.0
+127,Eden Valley,Australia,49.88775510204081
+128,Heathcote,Australia,49.77272727272727
+129,Templeton Gap District,US,49.75
+130,Côte de Beaune,France,49.75
+131,Terre di Franciacorta,Italy,49.6
+132,Côtes de Nuits Villages,France,49.5
+133,Napa Valley,US,49.45776126635439
+134,Yountville,US,49.27835051546393
+135,Chablis,France,49.24952380952381
+136,Recioto della Valpolicella Classico,Italy,49.24324324324325
+137,Sagrantino di Montefalco,Italy,49.14035087719297
+138,Alta Langa,Italy,49.0
+139,Dominio de Valdepusa,Spain,48.92
+140,Ben Lomond Mountain,US,48.88888888888889
+141,Adelaida District,US,48.56
+142,Pompeiano,Italy,48.14285714285714
+143,Dundee Hills,US,48.09722222222222
+144,Vin Santo di Carmignano,Italy,48.0
+145,Vi de la Terra Illes Balears,Spain,47.43478260869565
+146,Knights Valley,US,47.254437869822475
+147,Taurasi,Italy,47.14754098360656
+148,Contea di Sclafani,Italy,47.08333333333334
+149,Vino de la Tierra de Zamora,Spain,47.0
+150,Colline Lucchesi,Italy,47.0
+151,Sant'Antimo,Italy,46.890625
+152,Colli di Rimini,Italy,46.875
+153,Costa d'Amalfi,Italy,46.6
+154,Napa-Mendocino-Sonoma-Marin,US,46.36363636363637
+155,Barbera d'Asti Superiore Nizza,Italy,46.33333333333334
+156,Mt. Harlan,US,46.3265306122449
+157,Paso Robles Willow Creek District,US,46.26666666666666
+158,Northern Sonoma,US,46.115384615384606
+159,Saint-Romain,France,46.0
+160,La Consulta,Argentina,45.97368421052632
+161,Temecula Valley,US,45.97101449275362
+162,Barossa Valley,Australia,45.88297872340426
+163,Calistoga,US,45.8170731707317
+164,Roccamonfina,Italy,45.8
+165,Sonoma Coast,US,45.53564154786151
+166,Savigny-lès-Beaune,France,45.46478873239437
+167,Vin Santo del Chianti Rufina,Italy,45.33333333333334
+168,Colli della Toscana Centrale,Italy,45.29213483146068
+169,Nagambie Lakes,Australia,45.148148148148145
+170,Chaume,France,45.0
+171,Les Baux de Provence,France,45.0
+172,Rosso del Salento,Italy,45.0
+173,Arribes del Duero,Spain,45.0
+174,Ribbon Ridge,US,44.81159420289855
+175,Yamhill County,US,44.8
+176,Oak Knoll District,US,44.370629370629366
+177,Auxey-Duresses,France,44.2
+178,Mount Harlan,US,44.14285714285715
+179,Aleatico dell'Elba,Italy,44.0
+180,Orcia,Italy,43.82352941176471
+181,Chehalem Mountains,US,43.74517374517374
+182,Sta. Rita Hills,US,43.7324516785351
+183,Sonoma Mountain,US,43.61971830985915
+184,Gioia del Colle,Italy,43.4
+185,Recioto di Soave Classico,Italy,43.33333333333334
+186,Colline Teatine,Italy,43.28571428571429
+187,Eola-Amity Hills,US,43.177570093457945
+188,Conero,Italy,43.14285714285715
+189,Chalk Hill,US,43.03669724770642
+190,Controguerra,Italy,43.0
+191,Tierra del Viños de Zamora,Spain,43.0
+192,Alghero,Italy,43.0
+193,Colli di Salerno,Italy,42.66666666666666
+194,Red Mountain,US,42.6614420062696
+195,Green Valley,US,42.516129032258064
+196,Bolgheri,Italy,42.270833333333336
+197,Coteaux du Layon Beaulieu,France,42.0
+198,Saint-Aubin,France,41.844444444444434
+199,Niagara Peninsula,Canada,41.796875
+200,Santa Cruz Mountains,US,41.768642447418735
+201,Franciacorta,Italy,41.757009345794394
+202,Bonnezeaux,France,41.75
+203,Ribera del Duero,Spain,41.66820809248555
+204,Colli Etruria Centrale,Italy,41.66666666666666
+205,Terre del Volturno,Italy,41.647058823529406
+206,Piccadilly Valley,Australia,41.54545454545455
+207,Santenay,France,41.20754716981132
+208,Yamhill-Carlton District,US,41.061224489795926
+209,Epomeo,Italy,41.0
+210,Vino da Tavola,Italy,40.90909090909091
+211,Lenswood,Australia,40.9
+212,Passito di Pantelleria,Italy,40.85
+213,Wrattonbully,Australia,40.78947368421053
+214,Anderson Valley,US,40.626506024096386
+215,Friuli,Italy,40.615384615384606
+216,Passito di Noto,Italy,40.5
+217,Savennières-Roche-Aux-Moines,France,40.5
+218,Ghemme,Italy,40.5
+219,Santa Lucia Highlands,US,40.23480083857442
+220,Monthélie,France,40.22222222222222
+221,Santa Cruz County,US,40.16666666666666
+222,Fara,Italy,40.0
+223,Niagara Escarpment,Canada,40.0
+224,Malvasia delle Lipari,Italy,40.0
+225,San Marino,Italy,40.0
+226,Vino de Calidad de Valtiendas,Spain,40.0
+227,Var,France,40.0
+228,Recioto della Valpolicella Valpantena,Italy,40.0
+229,Vin de Pays des Coteaux de L'Ardeche,France,40.0
+230,Loazzolo,Italy,40.0
+231,Chalone,US,39.9277108433735
+232,Chiles Valley,US,39.8235294117647
+233,Vino Nobile di Montepulciano,Italy,39.707317073170735
+234,Bourgogne Hautes Côtes de Beaune,France,39.66666666666666
+235,Ladoix,France,39.285714285714285
+236,Côte de Nuits-Villages,France,39.09090909090909
+237,Barossa,Australia,39.05438066465257
+238,Malibu Coast,US,39.0
+239,Vino de la Tierra de Cádiz,Spain,38.857142857142854
+240,Toro,Spain,38.84027777777778
+241,Walla Walla Valley (WA),US,38.75559237779619
+242,Recioto della Valpolicella,Italy,38.57142857142857
+243,Veronese,Italy,38.354838709677416
+244,Arroyo Grande Valley,US,38.28699551569507
+245,Napa-Sonoma,US,38.266666666666666
+246,Falerno del Massico,Italy,38.26086956521739
+247,Forlì,Italy,38.24137931034483
+248,Rockpile,US,38.14492753623188
+249,Moscadello di Montalcino,Italy,38.083333333333336
+250,Amarone della Valpolicella Valpantena,Italy,38.07692307692308
+251,Ballard Canyon,US,38.06666666666667
+252,Albemarle County,US,38.0
+253,Salina,Italy,37.833333333333336
+254,McMinnville,US,37.68965517241379
+255,Vino de Mesa,Spain,37.6
+256,Etna,Italy,37.59574468085106
+257,Russian River Valley,US,37.51908396946565
+258,Santa Maria Valley,US,37.44053398058252
+259,Fixin,France,37.3
+260,Napa County-Sonoma County,US,37.21739130434783
+261,Saint-Joseph,France,37.2112676056338
+262,Napa-Sonoma-Marin,US,37.0
+263,Cortona,Italy,36.91428571428571
+264,Marin County,US,36.907407407407405
+265,Sonoma Valley,US,36.80497925311203
+266,Marsannay,France,36.75
+267,Prosecco di Valdobbiadene Superiore,Italy,36.5
+268,Barbera del Monferrato Superiore,Italy,36.333333333333336
+269,Montepulciano d'Abruzzo Colline Teramane,Italy,36.3125
+270,Gigondas,France,36.11666666666667
+271,Pouilly-Fuissé,France,36.09722222222222
+272,Mercurey,France,36.010309278350526
+273,Yarra Valley,Australia,36.00934579439252
+274,Lime Kiln Valley,US,36.0
+275,Macon-Verge,France,36.0
+276,Alexander Valley,US,35.90158172231986
+277,York Mountain,US,35.69696969696969
+278,Valpolicella Superiore,Italy,35.6271186440678
+279,Montilla-Moriles,Spain,35.6
+280,Albana di Romagna,Italy,35.57142857142857
+281,Moscato di Noto,Italy,35.555555555555564
+282,Umbria,Italy,35.31707317073171
+283,Val di Cornia Suvereto,Italy,35.31578947368421
+284,Colli di Conegliano,Italy,35.285714285714285
+285,Aglianico del Taburno,Italy,35.27272727272727
+286,Sancerre,France,35.03669724770642
+287,Gaillac Doux,France,35.0
+288,Quebec,Canada,35.0
+289,Vermont,US,35.0
+290,Colline Teramane,Italy,35.0
+291,Barossa-Langhorne Creek,Australia,35.0
+292,Saint-Croix-du-Mont,France,35.0
+293,Maremma,Italy,34.97093023255814
+294,Niagara-On-The-Lake,Canada,34.9
+295,Trento,Italy,34.8780487804878
+296,Carmel Valley,US,34.86813186813187
+297,Carneros,US,34.75686813186813
+298,Sainte-Foy Bordeaux,France,34.75
+299,Red Hills Lake County,US,34.60606060606061
+300,Givry,France,34.53333333333333
+301,Mendocino Ridge,US,34.51111111111111
+302,Marche,Italy,34.413793103448285
+303,Valli di Porto Pino,Italy,34.368421052631575
+304,Mâcon-Verze,France,34.333333333333336
+305,Saint-Péray,France,34.0625
+306,El Pomar District,US,34.0
+307,Alto Adige Terlano,Italy,34.0
+308,McDowell Valley,US,34.0
+309,Côte de Beaune-Villages,France,34.0
+310,Pouilly-Fumé,France,33.868421052631575
+311,Coteaux du Layon,France,33.75
+312,North Yuba,US,33.75
+313,Rioja,Spain,33.5291932059448
+314,Goulburn Valley,Australia,33.5
+315,Lake Erie,US,33.333333333333336
+316,Roero,Italy,33.32608695652174
+317,Moulis-en-Médoc,France,33.30769230769231
+318,Livermore Valley,US,33.26546391752577
+319,Vino de la Tierra de Castilla y León,Spain,33.213872832369944
+320,Tierra de León,Spain,33.09090909090909
+321,Canada,Canada,33.0
+322,Monterey-Santa Cruz,US,33.0
+323,Lombardy,Italy,33.0
+324,Columbia Valley-Walla Walla Valley,US,33.0
+325,San Benito County,US,32.771929824561404
+326,Arroyo Seco,US,32.768953068592054
+327,Bennett Valley,US,32.75
+328,Malibu-Newton Canyon,US,32.75
+329,Alsace,France,32.71689135606661
+330,Okanagan Valley,Canada,32.708333333333336
+331,Willamette Valley,US,32.70023980815348
+332,Lalande de Pomerol,France,32.5625
+333,Bourgogne Hautes Côtes de Nuits,France,32.541666666666664
+334,Arbois,France,32.5
+335,Mount Benson,Australia,32.5
+336,Los Carneros,US,32.5
+337,Colli Euganei,Italy,32.5
+338,Irpinia,Italy,32.486486486486484
+339,Margaret River,Australia,32.388663967611336
+340,Fronsac,France,32.38095238095238
+341,Clare Valley,Australia,32.241106719367586
+342,Venezia Giulia,Italy,32.22314049586777
+343,Augusta,US,32.21052631578947
+344,Yorkville Highlands,US,32.18571428571428
+345,Mornington Peninsula,Australia,32.185185185185176
+346,Happy Canyon of Santa Barbara,US,32.17977528089887
+347,Coonawarra,Australia,32.165775401069524
+348,McLaren Vale,Australia,32.129129129129126
+349,San Luis Obispo County,US,32.008771929824555
+350,Napa-Sonoma-Monterey,US,32.0
+351,Alpilles,France,32.0
+352,Maremma Toscana,Italy,31.870129870129873
+353,Noto,Italy,31.857142857142854
+354,Tuscany,Italy,31.85185185185185
+355,Valtellina Superiore,Italy,31.777777777777782
+356,Sangiovese di Romagna Superiore,Italy,31.777777777777782
+357,South Coast,US,31.653846153846153
+358,Nebbiolo d'Alba,Italy,31.4
+359,Guenoc Valley,US,31.384615384615387
+360,Applegate Valley,US,31.253164556962034
+361,Pouilly-Loché,France,31.25
+362,Valdobbiadene Superiore di Cartizze,Italy,31.228571428571428
+363,Carneros-Napa Valley,US,31.125
+364,Rosso di Toscana,Italy,31.1
+365,Pomino,Italy,31.1
+366,Santa Ynez Valley,US,31.095828635851184
+367,Jerez,Spain,31.08965517241379
+368,Torgiano,Italy,31.05405405405405
+369,San Francisco Bay,US,31.04347826086957
+370,Snipes Mountain,US,31.031746031746028
+371,Mâcon-Vinzelles,France,31.0
+372,Campania,Italy,30.923076923076927
+373,Rully,France,30.914893617021278
+374,Crozes-Hermitage,France,30.9010989010989
+375,Cigales,Spain,30.86206896551724
+376,St.-Romain,France,30.857142857142854
+377,Colli Perugini,Italy,30.8
+378,Vin de Pays des Collines Rhodaniennes,France,30.777777777777782
+379,Kentucky,US,30.75
+380,Bandol,France,30.74468085106383
+381,Castel del Monte,Italy,30.72727272727273
+382,Maranges,France,30.6
+383,Temecula,US,30.57377049180328
+384,Carignano del Sulcis,Italy,30.5625
+385,South Australia,Australia,30.55791962174941
+386,Cahors,France,30.539647577092513
+387,Menfi,Italy,30.5
+388,Valpolicella Ripasso Classico,Italy,30.5
+389,Gippsland,Australia,30.5
+390,Empordà,Spain,30.470588235294123
+391,Barbera d'Asti Superiore,Italy,30.340206185567013
+392,Abruzzo,Italy,30.272727272727273
+393,Curtefranca,Italy,30.2
+394,Horse Heaven Hills,US,30.155797101449274
+395,Fleurieu Peninsula,Australia,30.1
+396,Napa-Mendocino-Sonoma,US,30.09090909090909
+397,Paso Robles,US,30.03224744981902
+398,Napa Valley-Paso Robles,US,30.0
+399,Conero Riserva,Italy,30.0
+400,Leverano,Italy,30.0
+401,Finca Élez,Spain,30.0
+402,Mâcon-Milly Lamartine,France,30.0
+403,Coteaux du Layon La Faye,France,30.0
+404,Valdobbiadene Prosecco Superiore,Italy,30.0
+405,Barossa Valley-Clare Valley,Australia,30.0
+406,Muscadet Sèvre et Maine Clisson,France,30.0
+407,Prince Edward County,Canada,30.0
+408,Collines Rhôdaniennes,France,30.0
+409,Chignin-Bergeron,France,30.0
+410,Dogliani Superiore,Italy,30.0
+411,Southern Fleurieu,Australia,30.0
+412,Montecucco,Italy,29.93333333333333
+413,Prosecco Superiore di Cartizze,Italy,29.907407407407412
+414,Cadillac,France,29.66666666666667
+415,Dry Creek Valley,US,29.553008595988537
+416,Chorey-lès-Beaune,France,29.53333333333333
+417,Luján de Cuyo,Argentina,29.51263537906137
+418,Rosso Piceno,Italy,29.470588235294123
+419,Val di Neto,Italy,29.4
+420,Dolcetto di Dogliani Superiore,Italy,29.33333333333333
+421,Edna Valley,US,29.322635135135137
+422,Aglianico del Vulture,Italy,29.29230769230769
+423,Málaga,Spain,29.272727272727273
+424,Montescudaio,Italy,29.125
+425,Bourgogne Epineuil,France,29.0
+426,Fair Play,US,29.0
+427,Côtes de Provence La Londe,France,28.91666666666667
+428,Yakima Valley,US,28.78065630397237
+429,Pouilly-Vinzelles,France,28.777777777777782
+430,Lussac Saint-Émilion,France,28.75
+431,Humboldt County,US,28.714285714285715
+432,Somontano,Spain,28.696969696969692
+433,Jurançon,France,28.67857142857143
+434,Calchaquí Valley,Argentina,28.627118644067803
+435,Suisun Valley,US,28.612903225806452
+436,Côtes du Roussillon Villages,France,28.6
+437,Wahluke Slope,US,28.560109289617486
+438,Columbia Valley (OR),US,28.542056074766354
+439,Vin de Liqueur,France,28.5
+440,Savennières,France,28.47826086956522
+441,Santa Barbara County,US,28.395277989337398
+442,Chianti Classico,Italy,28.337724550898205
+443,Chénas,France,28.33333333333333
+444,Tumbarumba,Australia,28.33333333333333
+445,Carmignano,Italy,28.32142857142857
+446,Lazio,Italy,28.310344827586214
+447,Coteaux du Languedoc,France,28.262135922330092
+448,Padthaway,Australia,28.15909090909091
+449,Montefalco Rosso,Italy,28.02439024390244
+450,Sonoma County,US,28.002158661629792
+451,Mâcon Chaintré,France,28.0
+452,Asolo Prosecco Superiore,Italy,28.0
+453,Middleburg,US,28.0
+454,Muscat de Rivesaltes,France,28.0
+455,Verduno,Italy,28.0
+456,San Diego County,US,28.0
+457,Emporadà-Costa Brava,Spain,28.0
+458,Cérons,France,28.0
+459,Pyrenees,Australia,27.842105263157894
+460,Cochise County,US,27.79166666666667
+461,Capay Valley,US,27.75
+462,San Pasqual,US,27.714285714285715
+463,Côtes de Bergerac,France,27.714285714285715
+464,Valpolicella Classico Superiore,Italy,27.707317073170728
+465,Southern Flinders Ranges,Australia,27.555555555555557
+466,Limoux,France,27.52
+467,Clare Valley-Eden Valley,Australia,27.5
+468,Naches Heights,US,27.5
+469,Côtes du Roussillon,France,27.5
+470,Arizona,US,27.5
+471,Santa Clara Valley,US,27.46875
+472,Paicines,US,27.448275862068964
+473,Bierzo,Spain,27.392638036809817
+474,Tasmania,Australia,27.2
+475,Colli Orientali del Friuli,Italy,27.18670076726343
+476,Alto Adige,Italy,27.14470842332613
+477,McLaren Vale-Padthaway,Australia,27.0
+478,Rasteau,France,27.0
+479,Coteaux de Verdon,France,27.0
+480,McLaren Vale-Beechworth,Australia,27.0
+481,Saint-Mont,France,27.0
+482,Mâcon-Uchizy,France,27.0
+483,Old Mission Peninsula,US,27.0
+484,Ramona Valley,US,27.0
+485,Pouilly-sur-Loire,France,27.0
+486,Tehema Foothills,US,27.0
+487,Barossa Valley-McLaren Vale,Australia,27.0
+488,"The Hamptons, Long Island",US,26.9
+489,Saint-Véran,France,26.872340425531913
+490,Rosso del Veronese,Italy,26.86206896551724
+491,Montagny,France,26.86046511627907
+492,Muscat de Beaumes de Venise,France,26.83333333333333
+493,Lake Michigan Shore,US,26.8
+494,Montsant,Spain,26.785714285714285
+495,Listrac-Médoc,France,26.75
+496,Sonoma County-Napa County,US,26.714285714285715
+497,Romagna,Italy,26.66666666666667
+498,Columbia Gorge (OR),US,26.66
+499,Ruché di Castagnole Monferrato,Italy,26.5
+500,Saussignac,France,26.5
+501,Long Island,US,26.460674157303373
+502,San Luis Obispo,US,26.42857142857143
+503,Columbia Gorge (WA),US,26.35294117647059
+504,Canon-Fronsac,France,26.33333333333333
+505,Valdeorras,Spain,26.32727272727273
+506,Columbia Valley (WA),US,26.32705929973689
+507,Santa Barbara,US,26.28
+508,Penedès,Spain,26.268656716417908
+509,Sardinia,Italy,26.25
+510,Cadillac Côtes de Bordeaux,France,26.23809523809524
+511,Faugères,France,26.2
+512,Friuli Isonzo,Italy,26.175438596491233
+513,Rubicone,Italy,26.11111111111111
+514,Premieres Côtes de Blaye,France,26.096774193548388
+515,Rogue Valley,US,26.065934065934066
+516,Riverland,Australia,26.0
+517,Grand Roussillon,France,26.0
+518,Vino de Calidad de Tierras de León,Spain,26.0
+519,Central Valley,US,26.0
+520,Rosso di Montalcino,Italy,25.97938144329897
+521,Cannonau di Sardegna,Italy,25.966666666666665
+522,Virginia,US,25.955958549222803
+523,Shenandoah Valley (CA),US,25.931818181818183
+524,Fiano di Avellino,Italy,25.918367346938773
+525,Montlouis-sur-Loire,France,25.83333333333333
+526,Napa-Carneros,US,25.8
+527,Redwood Valley,US,25.78947368421053
+528,Lake County-Sonoma County,US,25.75
+529,Barbera d'Alba Superiore,Italy,25.724137931034484
+530,Barbera d'Alba,Italy,25.69636963696369
+531,Chinon,France,25.671875
+532,Cilento,Italy,25.66666666666667
+533,Haut-Médoc,France,25.63636363636364
+534,Mendocino,US,25.585903083700444
+535,Rosso Piceno Superiore,Italy,25.578947368421048
+536,Monreale,Italy,25.5
+537,Mentrida,Spain,25.5
+538,Solano County Green Valley,US,25.5
+539,Terrazze Retiche di Sondrio,Italy,25.5
+540,Napa County,US,25.461538461538463
+541,Lake Chelan,US,25.4
+542,Lison-Pramaggiore,Italy,25.33333333333333
+543,San Francisco Bay-Livermore Valley,US,25.33333333333333
+544,Valpolicella Ripasso Valpantena Superiore,Italy,25.272727272727273
+545,Cerasuolo di Vittoria,Italy,25.18518518518519
+546,Vin de Table Francais,France,25.176470588235286
+547,Fiddletown,US,25.11111111111111
+548,Montagne-Saint-Émilion,France,25.03333333333333
+549,Macedon Ranges,Australia,25.0
+550,Bourgogne Vézelay,France,25.0
+551,Sonoma-Napa-Lake,US,25.0
+552,Mitterberg,Italy,25.0
+553,Geelong,Australia,25.0
+554,Paestum,Italy,25.0
+555,Liguria,Italy,25.0
+556,Trentino Superiore,Italy,25.0
+557,Vallée du Paradis,France,25.0
+558,Mâcon-Pierreclos,France,25.0
+559,Vi de la Terra Mallorca,Spain,25.0
+560,Massachusetts,US,25.0
+561,San Luis Obispo-Sonoma-Monterey,US,25.0
+562,Mendocino-Solano,US,25.0
+563,Collio,Italy,24.960352422907487
+564,Orvieto Classico Superiore,Italy,24.93333333333333
+565,Agrelo,Argentina,24.89583333333333
+566,Cienega Valley,US,24.84313725490196
+567,Primitivo di Manduria,Italy,24.81081081081081
+568,Washington,US,24.755681818181817
+569,Chianti Rufina,Italy,24.74698795180723
+570,Cerasuolo di Vittoria Classico,Italy,24.72727272727273
+571,Terre Siciliane,Italy,24.720588235294123
+572,Colorado,US,24.714285714285715
+573,Elkton Oregon,US,24.714285714285715
+574,Sierra Foothills,US,24.696078431372552
+575,Montepulciano d'Abruzzo,Italy,24.661904761904758
+576,Uco Valley,Argentina,24.651724137931037
+577,Vino Spumante,Italy,24.6
+578,Valpolicella Classico Superiore Ripasso,Italy,24.552884615384613
+579,Cucamonga Valley,US,24.54545454545455
+580,Umpqua Valley,US,24.53157894736842
+581,Saint-Amour,France,24.5
+582,Monticello,US,24.5
+583,Clear Lake,US,24.45833333333333
+584,Yadkin Valley,US,24.4
+585,Calaveras County,US,24.396341463414632
+586,Lirac,France,24.375
+587,Solano County,US,24.363636363636363
+588,Amador County,US,24.341304347826085
+589,Mâcon La Roche Vineuse,France,24.33333333333333
+590,Greco di Tufo,Italy,24.17142857142857
+591,Contra Costa County,US,24.122222222222227
+592,Pennsylvania,US,24.12
+593,Castillon Côtes de Bordeaux,France,24.102040816326532
+594,Trebbiano d'Abruzzo,Italy,24.088235294117645
+595,Vacqueyras,France,24.08333333333333
+596,El Dorado,US,24.069767441860467
+597,Santa Clara County,US,24.0
+598,Rosso di Cerignola,Italy,24.0
+599,Crémant de Bordeaux,France,24.0
+600,Sonoma County-Lake County,US,24.0
+601,Colli Piacentini,Italy,24.0
+602,Langhorne Creek-Limestone Coast,Australia,24.0
+603,Côtes du Roussillon Villages Tautavel,France,24.0
+604,Burgundy,France,24.0
+605,Patrimonio,France,24.0
+606,Ventura County,US,24.0
+607,Vin de Pays des Portes de Méditerranée,France,24.0
+608,Irrouléguy,France,24.0
+609,Mâcon Solutré,France,24.0
+610,Vin de Pays de Montferrand,France,24.0
+611,Veneto Orientale,Italy,23.94117647058824
+612,Pla de Bages,Spain,23.93333333333333
+613,Orange,Australia,23.902439024390244
+614,North Fork of Long Island,US,23.86163522012579
+615,Offida Pecorino,Italy,23.83333333333333
+616,Montello e Colli Asolani,Italy,23.8
+617,Hudson River Region,US,23.79166666666667
+618,Morellino di Scansano,Italy,23.784313725490197
+619,Valencia,Spain,23.75757575757576
+620,Dolcetto di Dogliani,Italy,23.714285714285715
+621,Francs Côtes de Bordeaux,France,23.66666666666667
+622,Côtes de Provence,France,23.654450261780106
+623,Garda,Italy,23.625
+624,Clements Hills,US,23.6
+625,El Dorado County,US,23.594594594594593
+626,Bendigo,Australia,23.58620689655172
+627,Monteregio di Massa Marittima,Italy,23.57142857142857
+628,Lago di Corbara,Italy,23.555555555555557
+629,Colli Aprutini,Italy,23.555555555555557
+630,Valpolicella Superiore Ripasso,Italy,23.54976303317536
+631,Chelan County,US,23.529411764705888
+632,Pécharmant,France,23.466666666666665
+633,Getariako Txakolina,Spain,23.421052631578952
+634,Madiran,France,23.40659340659341
+635,Hunter Valley,Australia,23.375939849624057
+636,Mount Barker,Australia,23.33333333333333
+637,Lake County,US,23.33055555555556
+638,Côtes du Lot,France,23.3125
+639,Coste della Sesia,Italy,23.285714285714285
+640,Sonoma-Napa-Mendocino,US,23.25
+641,Kangaroo Island,Australia,23.25
+642,Verdicchio dei Castelli di Jesi Classico,Italy,23.214285714285715
+643,Côtes de Provence Sainte-Victoire,France,23.2
+644,Viré-Clessé,France,23.1875
+645,Bergerac Sec,France,23.064516129032263
+646,High Valley,US,23.03448275862069
+647,Chianti Montespertoli,Italy,23.0
+648,Ischia,Italy,23.0
+649,Bourgogne Grand Ordinaire,France,23.0
+650,Napa County-Sonoma County-Lake County,US,23.0
+651,Garda Classico,Italy,23.0
+652,Sonoma County-Monterey County,US,23.0
+653,Sonoma-Napa-Monterey,US,23.0
+654,Valle d'Aosta,Italy,23.0
+655,Côte de Brouilly,France,23.0
+656,Mâcon-Davayé,France,23.0
+657,Monterey-Santa Barbara,US,23.0
+658,Ribera del Queiles,Spain,23.0
+659,Montravel,France,23.0
+660,Southern Oregon,US,22.973214285714285
+661,Oregon,US,22.907090464547682
+662,Hames Valley,US,22.875
+663,Placer County,US,22.857142857142854
+664,Western Plains,Australia,22.857142857142854
+665,Côtes du Rhône Villages,France,22.83695652173913
+666,Sonoma County-Monterey County-Santa Barbara County,US,22.75
+667,Jurançon Sec,France,22.7
+668,North Coast,US,22.67964071856288
+669,Seneca Lake,US,22.676056338028175
+670,Vin Doux Naturel Rasteau,France,22.66666666666667
+671,San Antonio Valley,US,22.66666666666667
+672,Oltrepò Pavese,Italy,22.625
+673,Fleurie,France,22.542857142857148
+674,Sicilia,Italy,22.529325513196483
+675,Côtes de Bordeaux,France,22.52631578947368
+676,Cesanese del Piglio,Italy,22.5
+677,Clare Valley-Coonawarra,Australia,22.5
+678,Puisseguin Saint-Émilion,France,22.428571428571423
+679,Adelaide Hills,Australia,22.41304347826087
+680,Colline Pescaresi,Italy,22.393939393939394
+681,Monbazillac,France,22.33333333333333
+682,Graves,France,22.307017543859647
+683,Lugana,Italy,22.28767123287671
+684,Valle de Uco,Argentina,22.25
+685,Bourgogne,France,22.222689075630253
+686,Sannio,Italy,22.2
+687,Côtes de Duras,France,22.2
+688,San Gimignano,Italy,22.2
+689,Médoc,France,22.18518518518519
+690,Dolcetto di Diano d'Alba,Italy,22.181818181818183
+691,Alto Adige Valle Isarco,Italy,22.15
+692,Great Southern,Australia,22.074074074074073
+693,Monterey-Santa Barbara-Sonoma,US,22.0
+694,Dogliani,Italy,22.0
+695,Trinity County,US,22.0
+696,Crémant de Jura,France,22.0
+697,Beechworth,Australia,22.0
+698,Mâcon-Azé,France,22.0
+699,Santa Barbara-Monterey,US,22.0
+700,Biferno Rosso,Italy,22.0
+701,Monti Lessini,Italy,22.0
+702,Napa County-Sonoma County-San Joaquin County,US,22.0
+703,Jumilla,Spain,21.970588235294123
+704,Morgon,France,21.94594594594595
+705,Grand Valley,US,21.869565217391305
+706,Langhorne Creek,Australia,21.86046511627907
+707,Coteaux du Languedoc Pic Saint Loup,France,21.857142857142854
+708,Mendocino County,US,21.817972350230413
+709,Barbera d'Asti,Italy,21.796052631578952
+710,Campi Flegrei,Italy,21.777777777777782
+711,Cole Ranch,US,21.76923076923077
+712,Cortese di Gavi,Italy,21.66666666666667
+713,Offida Passerina,Italy,21.66666666666667
+714,Ventoux,France,21.66666666666667
+715,Tarragona,Spain,21.66666666666667
+716,McLaren Vale-Adelaide Hills,Australia,21.6
+717,La Clape,France,21.6
+718,Idaho,US,21.53333333333333
+719,St. David's Bench,Canada,21.5
+720,Vino de la Tierra de Castelló,Spain,21.5
+721,Montefalco,Italy,21.5
+722,Coteaux du Giennois,France,21.5
+723,Sant' Agata dei Goti,Italy,21.5
+724,Colli Bolognesi,Italy,21.5
+725,San Bernabe,US,21.5
+726,Menetou-Salon,France,21.475
+727,Soave Superiore,Italy,21.416666666666668
+728,Salta,Argentina,21.38571428571429
+729,Bizkaiko Txakolina,Spain,21.33333333333333
+730,Vigneti delle Dolomiti,Italy,21.303030303030305
+731,Friuli Venezia Giulia,Italy,21.285714285714285
+732,Eloro,Italy,21.25
+733,Coteaux Varois en Provence,France,21.238095238095237
+734,Grampians,Australia,21.2
+735,Premieres Côtes de Bordeaux,France,21.17241379310345
+736,Southeastern New England,US,21.125
+737,Tavel,France,21.11111111111111
+738,Monferrato,Italy,21.09090909090909
+739,Crémant d'Alsace,France,21.061224489795922
+740,Bourgueil,France,21.05
+741,Antelope Valley of the California High Desert,US,21.0
+742,Jahant,US,21.0
+743,Petit Chablis,France,21.0
+744,Clairette de Die,France,21.0
+745,Lamezia,Italy,21.0
+746,Teroldego Rotaliano,Italy,21.0
+747,Colli Trevigiani,Italy,21.0
+748,Colli Pesaresi,Italy,21.0
+749,Monterey,US,20.92128801431127
+750,Shenandoah Valley,US,20.894736842105264
+751,New Mexico,US,20.88421052631579
+752,Côtes de Bourg,France,20.88135593220339
+753,Colli di Faenza,Italy,20.857142857142858
+754,Corbières,France,20.75824175824176
+755,Veneto,Italy,20.755905511811022
+756,Vin de Savoie,France,20.75
+757,Pacherenc du Vic Bilh,France,20.75
+758,Gavi,Italy,20.681818181818183
+759,Ribeira Sacra,Spain,20.65625
+760,Rosso Conero,Italy,20.6
+761,Calabria,Italy,20.571428571428573
+762,Alella,Spain,20.555555555555557
+763,Erice,Italy,20.5
+764,Comté Toulosan,France,20.5
+765,Potter Valley,US,20.485714285714284
+766,Crémant de Loire,France,20.365853658536587
+767,Côtes du Marmandais,France,20.357142857142858
+768,Soave Classico Superiore,Italy,20.35
+769,Crémant de Bourgogne,France,20.33684210526316
+770,Moulin-à-Vent,France,20.315789473684212
+771,Blaye Côtes de Bordeaux,France,20.30769230769231
+772,Vermentino di Sardegna,Italy,20.25423728813559
+773,Beamsville Bench,Canada,20.25
+774,Vin de Pays des Coteaux de Peyriac,France,20.25
+775,Gaillac,France,20.21686746987952
+776,New South Wales,Australia,20.153846153846157
+777,Vittoria,Italy,20.1
+778,Monterrei,Spain,20.066666666666666
+779,Brachetto d'Acqui,Italy,20.0625
+780,Rías Baixas,Spain,20.062360801781736
+781,Verdicchio dei Castelli di Jesi Classico Superiore,Italy,20.041666666666668
+782,Adelaide,Australia,20.01851851851852
+783,Lugana Superiore,Italy,20.0
+784,Monterey County-Napa County-Sonoma County,US,20.0
+785,Irancy,France,20.0
+786,Crémant de Die,France,20.0
+787,Lanzarote,Spain,20.0
+788,Cour-Cheverny,France,20.0
+789,Napa-Sonoma-Lake,US,20.0
+790,Napa-Mendocino-Santa Clara Counties,US,20.0
+791,Murgia,Italy,20.0
+792,Picpoul de Pinet,France,20.0
+793,Civitella d'Agliano,Italy,20.0
+794,Colli Martani,Italy,20.0
+795,Rivesaltes Rosé,France,20.0
+796,Pemberton,Australia,20.0
+797,Mâcon-Péronne,France,20.0
+798,Patagonia,Argentina,20.0
+799,Sonoma County-San Joaquin County,US,20.0
+800,Coteaux d'Aix-en-Provence,France,19.95294117647059
+801,Central Coast,US,19.94491525423729
+802,Puglia,Italy,19.900763358778626
+803,Mâcon-Chardonnay,France,19.9
+804,Lacryma Christi del Vesuvio,Italy,19.892857142857142
+805,Monterey County,US,19.867469879518076
+806,Vin de France,France,19.863636363636363
+807,Côtes du Tarn,France,19.83333333333333
+808,Rattlesnake Hills,US,19.828282828282827
+809,Vouvray,France,19.813953488372096
+810,Yolo County,US,19.793103448275858
+811,Victoria,Australia,19.782608695652176
+812,Saumur-Champigny,France,19.777777777777782
+813,Valpolicella Ripasso,Italy,19.75
+814,New Jersey,US,19.73913043478261
+815,Languedoc,France,19.6875
+816,Extremadura,Spain,19.625
+817,Mudgee,Australia,19.615384615384613
+818,Gavi di Gavi,Italy,19.615384615384613
+819,Vittoria Frappato,Italy,19.6
+820,Madrid,Spain,19.555555555555557
+821,Falanghina del Sannio,Italy,19.555555555555557
+822,Soave Classico,Italy,19.54301075268817
+823,Cabardes,France,19.5
+824,North Carolina,US,19.5
+825,Fitou,France,19.5
+826,Aglianico del Beneventano,Italy,19.5
+827,Manchuela,Spain,19.444444444444443
+828,Valpolicella Ripasso Valpantena,Italy,19.428571428571427
+829,Roero Arneis,Italy,19.416666666666668
+830,Mendoza,Argentina,19.386670416197976
+831,Vinos de Madrid,Spain,19.375
+832,Mâcon,France,19.33333333333333
+833,Ribeiro,Spain,19.288888888888884
+834,Côtes de Castillon,France,19.272727272727273
+835,Reuilly,France,19.263157894736842
+836,Saint-Nicolas-de-Bourgueil,France,19.25
+837,Mendocino-Amador,US,19.2
+838,Châteaumeillant,France,19.2
+839,Bourgogne Aligoté,France,19.153846153846157
+840,Finger Lakes,US,19.128205128205128
+841,Vermentino di Gallura,Italy,19.125
+842,Conegliano Valdobbiadene Prosecco Superiore,Italy,19.123028391167196
+843,Anjou,France,19.096153846153847
+844,Quincy,France,19.08333333333333
+845,Argentina,Argentina,19.056603773584907
+846,Vesuvio,Italy,19.0
+847,Todi,Italy,19.0
+848,Anjou Villages,France,19.0
+849,Saint-Chinian,France,19.0
+850,Alicante-Marina Alta,Spain,19.0
+851,Colline Novaresi,Italy,19.0
+852,Catalanesca del Monte Somma,Italy,19.0
+853,Virginia's Eastern Shore,US,19.0
+854,Chianti Colli Fiorentini,Italy,18.928571428571427
+855,Dolcetto d'Alba,Italy,18.8953488372093
+856,Madera,US,18.818181818181817
+857,Corse,France,18.8
+858,Mâcon-Fuissé,France,18.8
+859,Molise,Italy,18.777777777777782
+860,Ancient Lakes,US,18.777777777777782
+861,Salento,Italy,18.772151898734176
+862,Swan Creek,US,18.666666666666668
+863,Chianti Montalbano,Italy,18.666666666666668
+864,Juliénas,France,18.625
+865,Cafayate,Argentina,18.622754491017965
+866,Saumur,France,18.58333333333333
+867,Vista Flores,Argentina,18.52380952380953
+868,Hilltops,Australia,18.5
+869,Barbera del Monferrato,Italy,18.5
+870,Tarantino,Italy,18.5
+871,Monica di Sardegna,Italy,18.5
+872,Frankland River,Australia,18.4375
+873,Lodi,US,18.43663594470046
+874,Lambrusco di Sorbara,Italy,18.428571428571427
+875,Tupungato,Argentina,18.36244541484716
+876,San Lucas,US,18.285714285714285
+877,Alicante,Spain,18.259259259259263
+878,Piedmont,Italy,18.25675675675676
+879,Vernaccia di San Gimignano,Italy,18.149253731343286
+880,Brouilly,France,18.095238095238095
+881,Spain,Spain,18.05128205128205
+882,Isonzo del Friuli,Italy,18.043478260869566
+883,Coteaux du Lyonnais,France,18.0
+884,Lambrusco Grasparossa di Castelvetro,Italy,18.0
+885,Costers del Segre,Spain,18.0
+886,Crémant de Limoux,France,18.0
+887,Lake Erie North Shore,Canada,18.0
+888,Roussette de Savoie,France,18.0
+889,Colli di Luni,Italy,18.0
+890,Sonoma-Mendocino,US,18.0
+891,Yarra Valley-Heathcote,Australia,18.0
+892,McLaren Vale-Langhorne Creek,Australia,18.0
+893,Anderson Valley-Sonoma County-Cole Ranch,US,18.0
+894,Biferno Bianco,Italy,18.0
+895,Sonoma-Santa Barbara-Mendocino,US,18.0
+896,Texas,US,17.902439024390247
+897,Hautes Côtes de Nuits,France,17.9
+898,Maipú,Argentina,17.82456140350877
+899,Falanghina del Beneventano,Italy,17.75
+900,Bordeaux Supérieur,France,17.74719101123595
+901,Terra Alta,Spain,17.74418604651163
+902,Basilicata,Italy,17.727272727272727
+903,Tierra Manchuela,Spain,17.666666666666668
+904,Prosecco di Conegliano,Italy,17.647058823529417
+905,Prosecco di Valdobbiadene,Italy,17.646153846153847
+906,Chiroubles,France,17.625
+907,Sangiovese di Romagna,Italy,17.583333333333332
+908,Alto Valle del Río Negro,Argentina,17.571428571428573
+909,Cava,Spain,17.554806070826302
+910,Limestone Coast,Australia,17.548387096774196
+911,Beneventano,Italy,17.545454545454547
+912,King Valley,Australia,17.526315789473685
+913,Collioure,France,17.5
+914,Sonoma County-Monterey County-Napa County,US,17.5
+915,Casorzo,Italy,17.5
+916,Clarksburg,US,17.484848484848484
+917,Muscadet Côtes de Grandlieu,France,17.333333333333332
+918,Sonoma,US,17.333333333333332
+919,Prosecco di Conegliano e Valdobbiadene,Italy,17.27777777777778
+920,Bordeaux Blanc,France,17.264808362369337
+921,Côte Chalonnaise,France,17.25
+922,Rosso di Montepulciano,Italy,17.21818181818182
+923,Mokelumne River,US,17.125
+924,New York,US,17.089430894308947
+925,Western Australia,Australia,17.05185185185185
+926,Prosecco Treviso,Italy,17.0
+927,Listrac,France,17.0
+928,Mâcon-Vergisson,France,17.0
+929,Mendocino-Lake County-Napa,US,17.0
+930,Soave Colli Scaligeri,Italy,17.0
+931,Lambrusco di Modena,Italy,17.0
+932,Vermentino di Toscana,Italy,17.0
+933,Piave,Italy,16.976190476190474
+934,Neuquén,Argentina,16.975806451612904
+935,Cayuga Lake,US,16.953125
+936,Cirò,Italy,16.88888888888889
+937,Minervois,France,16.855670103092784
+938,Mendocino-Sonoma-Amador,US,16.8
+939,Sonoma County-Santa Barbara County,US,16.8
+940,Beaumes-de-Venise,France,16.666666666666668
+941,Diano d'Alba,Italy,16.666666666666668
+942,Valpolicella Classico,Italy,16.62
+943,Lambrusco Reggiano,Italy,16.555555555555557
+944,Moscato d'Asti,Italy,16.50375939849624
+945,Bourgogne Côtes d’Auxerre,France,16.5
+946,Manzanilla-Sanlúcar de Barrameda,Spain,16.5
+947,Penisola Sorrentina,Italy,16.5
+948,Mâcon-Lugny,France,16.46153846153846
+949,Navarra,Spain,16.45505617977528
+950,Breganze,Italy,16.4
+951,Buzet,France,16.4
+952,Fronton,France,16.395833333333332
+953,Bullas,Spain,16.333333333333332
+954,Leelanau Peninsula,US,16.2
+955,Emilia,Italy,16.11111111111111
+956,Beaujolais Blanc,France,16.1
+957,San Carlos,Argentina,16.066666666666666
+958,Erbaluce di Caluso,Italy,16.0
+959,Strathbogie Ranges,Australia,16.0
+960,Ohio River Valley,US,16.0
+961,Valpolicella Valpantena,Italy,16.0
+962,Côtes de Montravel,France,16.0
+963,Nuragus di Cagliari,Italy,16.0
+964,Vin de Pays des Côtes de Thongue,France,16.0
+965,Currency Creek-McLaren Vale,Australia,16.0
+966,Régnié,France,16.0
+967,Vino de la Tierra Ribera del Jiloca,Spain,16.0
+968,Hautes Cotes de Beaune,France,16.0
+969,Custoza Superiore,Italy,16.0
+970,Mâcon-Villages,France,16.0
+971,Michigan,US,16.0
+972,Montecarlo,Italy,16.0
+973,Cerasuolo d'Abruzzo,Italy,16.0
+974,Galatina,Italy,16.0
+975,Vin de Pays de Caux,France,16.0
+976,Australia,Australia,15.956521739130435
+977,Bergerac,France,15.906666666666665
+978,Coteaux Bourguignons,France,15.875
+979,Valpolicella,Italy,15.866666666666667
+980,Central Victoria,Australia,15.833333333333336
+981,Napa-Amador,US,15.8
+982,San Rafael,Argentina,15.79
+983,Riverina,Australia,15.68421052631579
+984,Zonda Valley,Argentina,15.666666666666664
+985,Coteaux Varois,France,15.666666666666664
+986,Alta Mesa,US,15.636363636363635
+987,Trentino,Italy,15.589743589743591
+988,Blanquette de Limoux,France,15.5
+989,Adelaide Plains,Australia,15.5
+990,Valdadige,Italy,15.5
+991,Bordeaux Clairet,France,15.5
+992,Calatayud,Spain,15.443396226415095
+993,Marcillac,France,15.375
+994,Chianti Superiore,Italy,15.32258064516129
+995,Prosecco,Italy,15.304
+996,Vin de Pays des Côtes Catalanes,France,15.277777777777779
+997,Missouri,US,15.268292682926829
+998,Nevada County,US,15.25
+999,Vino de la Tierra Ribera del Gállego-Cinco Villas,Spain,15.2
+1000,Lacrima di Morro d'Alba,Italy,15.2
+1001,Cheverny,France,15.166666666666664
+1002,Rueda,Spain,15.07563025210084
+1003,Côtes du Rhône,France,15.053571428571427
+1004,Chile,Chile,15.0
+1005,Outer Coastal Plain,US,15.0
+1006,Barco Reale di Carmignano,Italy,15.0
+1007,Ohio,US,15.0
+1008,Mâcon-Prissé,France,15.0
+1009,Verdicchio di Matelica,Italy,15.0
+1010,Mendocino-Amador-Napa,US,15.0
+1011,Bellarine Peninsula,Australia,15.0
+1012,California-Oregon,US,15.0
+1013,Strathbogie Ranges-Mornington Peninsula,Australia,15.0
+1014,Vin de Pays de la Vallée de l’Aude,France,15.0
+1015,Alto Valle de Uco,Argentina,15.0
+1016,Dolcetto d'Asti,Italy,15.0
+1017,Dolcetto di Monferrato,Italy,15.0
+1018,Terre di Chieti,Italy,15.0
+1019,Delle Venezie,Italy,14.954022988505747
+1020,Marsala,Italy,14.941176470588234
+1021,Taburno,Italy,14.933333333333335
+1022,Soave,Italy,14.926315789473687
+1023,California,US,14.910693641618495
+1024,Emilia-Romagna,Italy,14.9
+1025,Asti,Italy,14.863636363636365
+1026,Mendocino-Lake,US,14.857142857142858
+1027,Saint-Bris,France,14.818181818181818
+1028,Salice Salentino,Italy,14.81578947368421
+1029,St.-Véran,France,14.75
+1030,Vin de Pays Var,France,14.7
+1031,Puget Sound,US,14.692307692307693
+1032,Val de Loire,France,14.666666666666664
+1033,Cariñena,Spain,14.659090909090908
+1034,Lake County-Mendocino County,US,14.571428571428573
+1035,San Juan,Argentina,14.509677419354839
+1036,Muscadet Sèvre et Maine,France,14.5
+1037,Grand River Valley,US,14.470588235294118
+1038,Bordeaux,France,14.431159420289855
+1039,Venezia,Italy,14.333333333333336
+1040,Vin de Pays du Val de Cesse,France,14.333333333333336
+1041,Touraine,France,14.277777777777779
+1042,Utiel-Requena,Spain,14.270270270270268
+1043,Dunnigan Hills,US,14.222222222222221
+1044,Prosecco del Veneto,Italy,14.164383561643836
+1045,Western Connecticut Highlands,US,14.0
+1046,Dolcetto d'Acqui,Italy,14.0
+1047,Pays de Loire,France,14.0
+1048,Rosé de Loire,France,14.0
+1049,South Australia-Victoria,Australia,14.0
+1050,Siskiyou County,US,14.0
+1051,Orvieto,Italy,14.0
+1052,Terrasses du Larzac,France,14.0
+1053,Cirò Classico,Italy,14.0
+1054,Muscadet,France,14.0
+1055,Savoie,France,14.0
+1056,Marca Trevigiana,Italy,14.0
+1057,Coteaux d'Ancenis,France,14.0
+1058,Bardolino,Italy,14.0
+1059,St.-Amour,France,14.0
+1060,Beaujolais Rosé,France,14.0
+1061,Chardonnay di Toscana,Italy,14.0
+1062,Alcamo,Italy,13.875
+1063,Frascati Superiore,Italy,13.833333333333336
+1064,Friuli Aquileia,Italy,13.823529411764708
+1065,Sable de Camargue,France,13.75
+1066,Iowa,US,13.75
+1067,Chianti,Italy,13.740566037735848
+1068,Famatina Valley,Argentina,13.732142857142858
+1069,Côtes de Thongue,France,13.666666666666664
+1070,Costières de Nîmes,France,13.661538461538461
+1071,Bordeaux Rosé,France,13.6375
+1072,Friuli Grave,Italy,13.608108108108109
+1073,Aminga Valley,Argentina,13.6
+1074,Vin de Pays de L'Herault,France,13.571428571428573
+1075,Castelli Romani,Italy,13.571428571428573
+1076,Luberon,France,13.5
+1077,Campo de Borja,Spain,13.43877551020408
+1078,Chianti Colli Senesi,Italy,13.418181818181818
+1079,Beaujolais,France,13.364864864864865
+1080,Lot,France,13.363636363636365
+1081,Tulum Valley,Argentina,13.352941176470587
+1082,Yecla,Spain,13.35
+1083,Gravina,Italy,13.333333333333336
+1084,Muscat de Saint-Jean de Minervois,France,13.333333333333336
+1085,Primitivo del Salento,Italy,13.333333333333336
+1086,Vino Tierra de León,Spain,13.333333333333336
+1087,Vin Mousseux,France,13.271739130434785
+1088,Montepulciano d'Abruzzo Cerasuolo,Italy,13.222222222222221
+1089,Almansa,Spain,13.2
+1090,Côtes Catalanes,France,13.2
+1091,Beaujolais-Villages,France,13.101694915254235
+1092,Côtes du Luberon,France,13.071428571428573
+1093,Valdepeñas,Spain,13.048780487804878
+1094,Bardolino Chiaretto,Italy,13.0
+1095,Currency Creek,Australia,13.0
+1096,Napa County-Lake County,US,13.0
+1097,Vin de Pays de France,France,13.0
+1098,Southern Highlands,Australia,13.0
+1099,Short Hills Bench,Canada,13.0
+1100,Granite Belt,Australia,13.0
+1101,Rosé d'Anjou,France,13.0
+1102,Touraine Amboise,France,13.0
+1103,Gard,France,13.0
+1104,Moselle VDQS,France,13.0
+1105,Bardolino Classico,Italy,13.0
+1106,Vin de Pays du Gard,France,13.0
+1107,Vin de Pays des Coteaux de Bessilles,France,13.0
+1108,Catamarca,Argentina,13.0
+1109,Vin de Pays de la Méditerranée,France,13.0
+1110,Italy,Italy,12.806451612903226
+1111,Terra degli Osci,Italy,12.8
+1112,Verdicchio dei Castelli di Jesi,Italy,12.75
+1113,Barbera di Piemonte,Italy,12.666666666666664
+1114,Vino de la Tierra Contraviesa Alpujarra,Spain,12.583333333333336
+1115,Murray-Darling,Australia,12.5
+1116,Vin de Pays Cité de Carcassonne,France,12.5
+1117,Bergerac Rosé,France,12.333333333333336
+1118,Copertino,Italy,12.333333333333336
+1119,Vin de Pays du Val de Loire,France,12.333333333333336
+1120,Vino de la Tierra de Castilla,Spain,12.305466237942124
+1121,Vino de la Tierra del Bajo Aragón,Spain,12.142857142857142
+1122,Vin de Pays du Comté Tolosan,France,12.111111111111109
+1123,Ribera del Guadiana,Spain,12.105263157894735
+1124,Pays d'Oc,France,12.041666666666664
+1125,Côtes de Frontonnais,France,12.0
+1126,Ribera del Júcar,Spain,12.0
+1127,Vin de Pays du Lot,France,12.0
+1128,Amador-Napa,US,12.0
+1129,Colli Asolani Prosecco,Italy,12.0
+1130,Vin de Pays de la Haute Vallée de l’Aude,France,12.0
+1131,Landes,France,12.0
+1132,Dolcetto d'Alba Superiore,Italy,12.0
+1133,Clairette de Bellegarde,France,12.0
+1134,Aude,France,12.0
+1135,Muscadet Coteaux de la Loire,France,12.0
+1136,Primitivo del Tarantino,Italy,12.0
+1137,Coteaux du Tricastin,France,12.0
+1138,Martina,Italy,12.0
+1139,Cabernet d'Anjou,France,12.0
+1140,Charentais,France,12.0
+1141,Darlington Point,Australia,12.0
+1142,Touraine Mesland,France,12.0
+1143,Côtes de Gascogne,France,12.0
+1144,Entre-Deux-Mers,France,11.888888888888891
+1145,La Rioja,Argentina,11.871794871794872
+1146,Catalunya,Spain,11.842105263157894
+1147,La Mancha,Spain,11.801418439716313
+1148,France,France,11.538461538461537
+1149,Venezie,Italy,11.5
+1150,South Eastern Australia,Australia,11.301255230125525
+1151,Tierra de Castilla,Spain,11.245614035087721
+1152,Vin de Pays Vignobles de France,France,11.181818181818182
+1153,Catalonia,Spain,11.111111111111109
+1154,Vin de Pays des Côtes de Gascogne,France,11.02247191011236
+1155,Vin de Pays d'Oc,France,11.01027397260274
+1156,Vin de Pays des Coteaux de Murviel,France,11.0
+1157,Gundagai,Australia,11.0
+1158,Mediterranée,France,11.0
+1159,Chianti Colli Aretini,Italy,11.0
+1160,Del Veneto,Italy,11.0
+1161,Isle St. George,US,11.0
+1162,Central Ranges,Australia,10.869565217391305
+1163,Est! Est!! Est!!! di Montefiascone,Italy,10.833333333333336
+1164,Ile de Beauté,France,10.8
+1165,Chianti Colli Pisani,Italy,10.666666666666666
+1166,Provincia di Pavia,Italy,10.6
+1167,River Junction,US,10.4
+1168,Vin de Pays du Jardin de la France,France,10.4
+1169,Vin de Pays de L'Aude,France,10.333333333333334
+1170,Orvieto Classico,Italy,10.23076923076923
+1171,Alpine Valleys,Australia,10.0
+1172,Lambrusco dell'Emilia,Italy,10.0
+1173,Vin de Pays des Côtes de Thau,France,10.0
+1174,Vin de Pays de Hauterive,France,10.0
+1175,Falerio,Italy,10.0
+1176,Toledo,Spain,10.0
+1177,Haut-Poitou,France,10.0
+1178,Arlanza,Spain,10.0
+1179,California-Washington,US,10.0
+1180,Castilla La Mancha,Spain,10.0
+1181,Circeo,Italy,10.0
+1182,Vin de Pays des Cévennes,France,9.833333333333334
+1183,Uclés,Spain,9.23076923076923
+1184,Côtes-du-Ventoux,France,9.222222222222221
+1185,Falerio dei Colli Ascolani,Italy,9.2
+1186,Stanislaus County,US,9.0
+1187,Apulia,Italy,9.0
+1188,Vin de Pays des Sables du Golfe du Lion,France,9.0
+1189,Vin de Pays de Côtes du Tarn,France,9.0
+1190,Vin de Pays des Pyrénees Orientales,France,9.0
+1191,Pavia,Italy,8.571428571428571
+1192,Sangiovese di Toscana,Italy,8.333333333333334
+1193,Riviera Ligure di Ponente,Italy,8.333333333333334
+1194,Vin de Pays de l'Ile de Beauté,France,8.0
+1195,Australia-New Zealand,Australia,8.0
+1196,Gers,France,7.0
+1197,Cuyo,Argentina,5.0
