@@ -1,4 +1,4 @@
-![HeaderBanner](https://github.com/Rohan-Dawar/ML-Wine-Price-Prediction/blob/main/WineML.png)
+![HeaderBanner](https://raw.githubusercontent.com/Rohan-Dawar/ML-Wine-Price-Prediction/main/wineML.png)
 
 # Machine Learning Wine Price Prediction Models
 ## Author [Rohan Dawar](https://www.rohandawar.com/)
