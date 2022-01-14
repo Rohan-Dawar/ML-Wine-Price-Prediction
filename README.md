@@ -24,4 +24,4 @@
 * [Plotly Express](https://plotly.com/python/plotly-express/)
 
 ### License
-The software and output models in this project are licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+The software and output models in this project are licensed under the MIT License - see the [LICENSE.md](LICENSE) file for details
