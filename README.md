@@ -13,7 +13,10 @@
 ---
 ### Getting Started
 1. Open ```Machine_Learning_Models_Predicting_Wine_Prices_Rohan_Dawar.ipynb (10.5 MB)``` in a Jupyter Notebook environment (Google Colab recommended).
-2. Run the notebook inputing your [Kaggle Api Key](https://www.kaggle.com/docs/api) when prompted, if you don't have an API key you can manually upload the CSV ```winemag-data_first150k.csv (49.78 MB)``` from the [Kaggle Page](https://www.kaggle.com/zynicide/wine-reviews), or you can unzip the csv ```dfP.zip``` (19.5 MB zipped, 72.5 MB unzipped).
+2. Loading the Dataframe
+  * Run the notebook inputing your [Kaggle Api Key](https://www.kaggle.com/docs/api) when prompted
+  * If you don't have an API key you can manually upload the CSV ```winemag-data_first150k.csv (49.78 MB)``` from the [Kaggle Page](https://www.kaggle.com/zynicide/wine-reviews)
+  * Or you can unzip ```dfP.zip``` (19.5 MB zipped, 72.5 MB unzipped) from this repo, and manually upload the CSV.
 3. The code will perform input engineering, data analysis and regression model fitting. Once the models are created they are saved as joblib files and you can run predictions by calling ```mode.predict(inputs)```.
 ##### *Note:* Hyper-parameter tuning can be RAM intensive. Make sure your runtime is equipped with at least 12GB of RAM.
 
